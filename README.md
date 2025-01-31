@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Juan</h1>
-<h3 align="center">I am a Full Stack developer with over 3 years of experience. I excel in adaptability, problem-solving skills, teamwork, and efficient time management.</h3>
+<h3 align="center">I am a Full Stack developer with over 5 years of experience. I excel in adaptability, problem-solving skills, teamwork, and efficient time management.</h3>
 
 - 🌱 I’m currently learning **Nest**
 
