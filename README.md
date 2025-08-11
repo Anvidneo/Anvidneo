@@ -1,44 +1,55 @@
-<h1 align="center">Hello there 👋, I'm Juan</h1>
-<h3 align="center">I am a Full Stack developer with over 5 years of experience. I excel in adaptability, problem-solving skills, teamwork, and efficient time management.</h3>
+# 👋 ¡Hola! Soy Anvid
 
-- 🌱 I’m currently learning **Nest**
+💻 **Full Stack Developer** | 🇨🇴 **Colombia**  
 
-- 👯 I’m looking to collaborate on **projects with Nodejs and Nest**
+---
 
-- 📫 How to reach me **botero1400@gmail.com**
+## 🧑‍💻 Sobre mí
+- 🚀 Apasionado por el desarrollo de **soluciones eficientes y escalables**.  
+- 📚 Actualmente aprendiendo y profundizando en **NestJS** y el ecosistema **Node.js**.  
+- 🛠️ Amante del **código limpio**, buenas prácticas y arquitecturas modernas.  
+- 🤝 Dispuesto a colaborar en proyectos interesantes y retadores.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juan-botero-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-botero-c" height="30" width="40" /></a>
-<a href="https://instagram.com/botero14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="botero14_" height="30" width="40" /></a>
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+**Lenguajes y Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+
+**Bases de datos**  
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb) ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)  ![Render](https://img.shields.io/badge/-Render-000?style=flat&logo=render) 
+
+**Herramientas y Software**  
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+
+**Testing y Otros**  
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest) ![TypeORM](https://img.shields.io/badge/-TypeORM-000?style=flat&logo=typeorm) ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens) ![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger)
+
+---
+
+## 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anvidneo&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvidneo&layout=compact" height="150"/>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">Backend Development:</h3>
-<p align="left"> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://inapp.com/wp-content/uploads/elementor/thumbs/logo-02-01-q05uls6ctobdq4ngxy8j4nayklyksv92v9wsz07nre.png" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">Database:</h3>
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-</p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvidneo&" alt="anvidneo" /></p>
+## 🌎 Conéctemos
+- 🌐 [Portafolio](https://portfolio-ashen-sigma-42.vercel.app/)  
+- 📸 [Instagram](https://www.instagram.com/anvidcito) — **@anvidcito**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-botero-c/) — **Juan Botero C.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvidneo&show_icons=true&locale=en&layout=compact" alt="anvidneo" /></p>
+---
 
+## 🤝 ¿Quieres colaborar?
+💬 Estoy listo para unirme a proyectos donde pueda aportar con mi experiencia en desarrollo full stack.  
+📩 Si tienes una idea o propuesta, ¡escríbeme!
+
+---
+
+✨ *Gracias por visitar mi perfil. ¡Nos vemos en el próximo commit!* 🚀
