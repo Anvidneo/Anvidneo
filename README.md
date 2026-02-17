@@ -1,54 +1,38 @@
-# 👋 ¡Hola! Soy Anvid
+# 🚀 Senior Software Engineer | Full-Stack Specialist
 
-💻 **Full Stack Developer** | 🇨🇴 **Colombia**  
+¡Hola! Soy **Juan David Botero (Anvid)**. Ingeniero de Software con más de 6 años de experiencia transformando ideas complejas en productos digitales escalables, seguros y de alta disponibilidad.
+
+### 🧑‍💻 Sobre mí
+* **Especialidad:** Arquitecto de soluciones en el ecosistema **JavaScript (Node.js, NestJS, React)** y **PHP**, con amplia trayectoria migrando sistemas legacy a **Microservicios**.
+* **Liderazgo Técnico:** Mentor activo y capacitador en tecnologías **Mobile (React Native)** e infraestructura **Cloud (GCP)**.
+* **Filosofía de Desarrollo:** Fiel defensor del **Clean Code**, principios **SOLID** y la automatización de la calidad mediante **CI/CD** y **Unit Testing (Jest)**.
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+**Lenguajes y Frameworks** ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react) ![Expo](https://img.shields.io/badge/-Expo-000?style=flat&logo=expo)
+
+**Bases de datos** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql) ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-000?style=flat&logo=microsoft-sql-server) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
+
+**Cloud & DevOps** ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=jenkins) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+
+**Testing y Otros** ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest) ![TypeORM](https://img.shields.io/badge/-TypeORM-000?style=flat&logo=typeorm) ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens) ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql) ![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger)
 
 ---
 
-## 🧑‍💻 Sobre mí
-- 🚀 Apasionado por el desarrollo de **soluciones eficientes y escalables**.  
-- 📚 Actualmente aprendiendo y profundizando en **NestJS** y el ecosistema **Node.js**.  
-- 🛠️ Amante del **código limpio**, buenas prácticas y arquitecturas modernas.  
-- 🤝 Dispuesto a colaborar en proyectos interesantes y retadores.  
-
----
-
-## 🛠️ Tecnologías & Herramientas
-
-**Lenguajes y Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
-
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb) ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)  ![Render](https://img.shields.io/badge/-Render-000?style=flat&logo=render) 
-
-**Herramientas y Software**  
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
-
-**Testing y Otros**  
-![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest) ![TypeORM](https://img.shields.io/badge/-TypeORM-000?style=flat&logo=typeorm) ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens) ![Swagger](https://img.shields.io/badge/-Swagger-000?style=flat&logo=swagger)
-
----
-
-## 📊 Mis estadísticas en GitHub
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anvidneo&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvidneo&layout=compact" height="150"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    
+      <img  alt="Anvidneo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Anvidneo?cardType=level&fontFamily=&preferLogin=false" />  
+    </a>
 </p>
 
 ---
 
-## 🌎 Conéctemos
-- 🌐 [Portafolio](https://portfolio-ashen-sigma-42.vercel.app/)  
-- 📸 [Instagram](https://www.instagram.com/anvidcito) — **@anvidcito**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-botero-c/) — **Juan Botero C.**
+### 🤝 Conectemos
 
----
-
-## 🤝 ¿Quieres colaborar?
-💬 Estoy listo para unirme a proyectos donde pueda aportar con mi experiencia en desarrollo full stack.  
-📩 Si tienes una idea o propuesta, ¡escríbeme!
+* 💼 [LinkedIn — Juan Botero C.](https://linkedin.com/in/juan-botero-c)
+* 📩 [Email](mailto:botero1400@gmail.com)
 
 ---
 
